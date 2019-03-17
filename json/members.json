@@ -1,0 +1,62 @@
+[
+  {
+    "key":"mauriciohernancabrera",
+    "name":"Mauricio Hernan Cabrera",
+    "img":"./members/hernan.jpg",
+    "showContacts":true,
+    "contacts":[
+      {
+        "id":"web-personal",
+        "title":"Mauricio Hernan Cabrera",
+        "subtitle":"Web Personal",
+        "link":"https://mauriciohernancabrera.github.io/",
+        "icon":"whatshot",
+        "isDisabled":false,
+        "isBlank":true
+      },
+      {
+        "id":"divider-1",
+        "isDivider":true
+      },
+      {
+        "id":"whatsapp",
+        "title":"+54 9 379 488-3889",
+        "subtitle":"Whatsapp",
+        "link":"https://wa.me/5493794883889",
+        "icon":"fab fa-whatsapp",
+        "isDisabled":false,
+        "isBlank":true
+      }
+    ] 
+  },
+  {
+    "key":"esdrasbenjaminpavon",
+    "name":"Esdras Benjamín Pavón",
+    "img":"./members/esdras.jpg",
+    "showContacts":true,
+    "contacts":[
+      {
+        "id":"web-personal",
+        "title":"Esdras Pavon",
+        "subtitle":"Web Personal",
+        "link":"https://www.esdraspavon.com/",
+        "icon":"whatshot",
+        "isDisabled":false,
+        "isBlank":true
+      },
+      {
+        "id":"divider-1",
+        "isDivider":true
+      },
+      {
+        "id":"whatsapp",
+        "title":"+54 9 375 131-4354",
+        "subtitle":"Whatsapp",
+        "link":"https://wa.me/5493751314354",
+        "icon":"fab fa-whatsapp",
+        "isDisabled":false,
+        "isBlank":true
+      }
+    ]
+  }
+]

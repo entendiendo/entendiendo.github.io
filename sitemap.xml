@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://cuandorindo.com/</loc>
+    <lastmod>2018-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://cuandorindo.com/inicio/</loc>
+    <lastmod>2018-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://cuandorindo.com/favoritos/</loc>
+    <lastmod>2018-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://cuandorindo.com/notificaciones/</loc>
+    <lastmod>2018-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://cuandorindo.com/auth/iniciar-sesion/</loc>
+    <lastmod>2018-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://cuandorindo.com/auth/registro/</loc>
+    <lastmod>2018-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://cuandorindo.com/auth/recuperar-acceso/</loc>
+    <lastmod>2018-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://cuandorindo.com/auth/recuperar-password/</loc>
+    <lastmod>2018-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
